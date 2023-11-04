@@ -16,6 +16,7 @@ Welcome to the Number Guessing Game! This simple Java console application allows
 5.Keep guessing until you guess the correct number!
 
 **Additional Features**
+
 Limited Attempts: You have a maximum number of attempts to guess the correct number.
 
 Multiple Rounds: You can play the game multiple times. After each round, you will be asked if you want to play again.
@@ -23,6 +24,7 @@ Multiple Rounds: You can play the game multiple times. After each round, you wil
 Scorekeeping: Your score is based on the number of rounds won. Try to improve your score with each round!
 
 **Game Preview**
+
 Here's a preview of what the game looks like:
 
 Welcome to the Number Guessing Game!
