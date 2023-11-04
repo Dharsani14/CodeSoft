@@ -1,1 +1,2 @@
-# CodeSoft
+# CodeSoft Task-1 
+NUMBER GUESSING GAME
